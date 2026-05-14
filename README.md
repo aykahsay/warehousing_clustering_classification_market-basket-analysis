@@ -1,8 +1,8 @@
-# Data-Driven Insights: Warehouse, Clustering, Classification, and Market Basket Analysis
-
-This repository contains the submissions for the **DSA 2040 End Semester Practical Exam**, covering **Data Warehousing, K-Means Clustering, Classification, and Association Rule Mining**. The project is organized into modular folders for clarity.
+## Data-Driven Insights: Warehouse, Clustering, Classification and Market Basket Analysis
+```
+This repository contains the submissions for the **DSA 2040 End Semester Practical Exam, covering Data Warehousing, K-Means Clustering, Classification, and Association Rule Mining. The project is organized into modular folders for clarity.
 This is the General Overview specific reports are porvided in each folder.
----
+```
 
 ## **Folder Overview**
 
